@@ -49,6 +49,6 @@ token3
 
 If you have any questions or suggestions, please reach out to me on Telegram: @kelasmalamairdrop.
 
-## License
+## Thanks
 
-This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)** - see the [LICENSE](LICENSE) file for details.
+Star For Support
