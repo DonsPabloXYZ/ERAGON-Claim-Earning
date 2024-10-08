@@ -47,7 +47,8 @@ token3
 
 ## Contact
 
-If you have any questions or suggestions, please reach out to me on Telegram: @kelasmalamairdrop.
+If you have any questions or suggestions, please reach out to me on 
+Telegram: [@kelasmalamairdrop.](https://t.me/kelasmalamairdrop)
 
 ## Thanks
 
